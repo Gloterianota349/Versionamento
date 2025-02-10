@@ -1,2 +1,2 @@
-# Versionamento
-Disciplina do SENAI sobre versionamento
+# Lógica de Programação
+Disciplina do SENAI sobre lógica de programação
